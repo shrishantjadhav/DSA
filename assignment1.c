@@ -1,3 +1,5 @@
+/*Write a program to perform string operations without using inbuilt library and functions*/
+
 #include <stdio.h>
 #include <string.h>
 
