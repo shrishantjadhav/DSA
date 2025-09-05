@@ -1,3 +1,6 @@
+/*Goal: Fill an n × n matrix (n odd) with numbers 1..n² so every row, column, and both diagonals sum to the same magic sum = n(n²+1)/2*.
+ */
+
 #include <stdio.h>
 #include<stdlib.h>
 
